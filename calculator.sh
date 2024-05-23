@@ -1,3 +1,4 @@
+#!/bin/bash
 function get_numbers(){
   read -p "Enter Number1: " number1
   read -p "Enter Number2: " number2
